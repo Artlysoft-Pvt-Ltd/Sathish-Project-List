@@ -30,5 +30,7 @@
 | 26    | 01-08-2025     | Jewelry stores            | [Click Here](https://satishkumarp6949.github.io/Jewellary-website/)          |
 | 27    | 04-08-2025     | Tire shops                | [Click Here](https://satishkumarp6949.github.io/Tyres-website/)              |
 | 28    | 05-08-2025     | Musical Instrument Shops  | [Click Here](https://satishkumarp6949.github.io/musical-website/)            |
+| 29    | 06-08-2025     | Paint Shops               | [Click Here](https://satishkumarp6949.github.io/Paint-Website/)              |
+
 
 **Trainer Name**: Dinesh Kumar
