@@ -32,6 +32,9 @@
 | 28    | 05-08-2025     | Musical Instrument Shops  | [Click Here](https://satishkumarp6949.github.io/musical-website/)            |
 | 29    | 06-08-2025     | Paint Shops               | [Click Here](https://satishkumarp6949.github.io/Paint-Website/)              |
 | 30    | 07-08-2025     | Cosmetics Store           | [Click Here](https://satishkumarp6949.github.io/Cosmetics/)                  |
+| 31    | 08-08-2025     | Home decor stores         | [Click Here](https://satishkumarp6949.github.io/House-decor/)                |
+| 32    | 11-08-2025     | Men’s Clothing Stores     | [Click Here](https://satishkumarp6949.github.io/Men-Apparels/)               |
+| 33    | 12-08-2025     | CarWash&DetailingServices | [Click Here](https://satishkumarp6949.github.io/car-wash/)                   |
 
 
 **Trainer Name**: Dinesh Kumar
