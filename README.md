@@ -35,6 +35,7 @@
 | 31    | 08-08-2025     | Home decor stores         | [Click Here](https://satishkumarp6949.github.io/House-decor/)                |
 | 32    | 11-08-2025     | Men’s Clothing Stores     | [Click Here](https://satishkumarp6949.github.io/Men-Apparels/)               |
 | 33    | 12-08-2025     | CarWash&DetailingServices | [Click Here](https://satishkumarp6949.github.io/car-wash/)                   |
+| 34    | 13-08-2025     | Event Equipment Rentals   | [Click Here](https://satishkumarp6949.github.io/Event/)                      |
 
 
 **Trainer Name**: Dinesh Kumar
