@@ -36,6 +36,10 @@
 | 32    | 11-08-2025     | Men’s Clothing Stores     | [Click Here](https://satishkumarp6949.github.io/Men-Apparels/)               |
 | 33    | 12-08-2025     | CarWash&DetailingServices | [Click Here](https://satishkumarp6949.github.io/car-wash/)                   |
 | 34    | 13-08-2025     | Event Equipment Rentals   | [Click Here](https://satishkumarp6949.github.io/Event/)                      |
-
-
+| 35    | 14-08-2025     | Wedding Dress Shops       | [Click Here](https://satishkumarp6949.github.io/wedding-Dress/)              |
+| 36    | 19-08-2025     | Software retailers Website| [Click Here](https://satishkumarp6949.github.io/software/)                   |
+| 37    | 20-08-2025     | Wine & Liquor Stores      | [Click Here](https://satishkumarp6949.github.io/Liquor-store/)               |
+| 38    | 22-08-2025     | Ticketing Shops           | [Click Here](https://satishkumarp6949.github.io/Tickets-Store/)              |
+| 39    | 25-08-2025     | Gardening andoutdoorstores| [Click Here](https://satishkumarp6949.github.io/Greenary/)                   |
+| 40    | 26-08-2025     | Museum Gift Shops         | [Click Here](https://satishkumarp6949.github.io/MUSEUM/)                     |
 **Trainer Name**: Dinesh Kumar
