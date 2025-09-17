@@ -42,4 +42,24 @@
 | 38    | 22-08-2025     | Ticketing Shops           | [Click Here](https://satishkumarp6949.github.io/Tickets-Store/)              |
 | 39    | 25-08-2025     | Gardening andoutdoorstores| [Click Here](https://satishkumarp6949.github.io/Greenary/)                   |
 | 40    | 26-08-2025     | Museum Gift Shops         | [Click Here](https://satishkumarp6949.github.io/MUSEUM/)                     |
+| 41    | 01-09-2025     | schools uniform 	         | [Click Here](https://satishkumarp6949.github.io/uniforms/ )                  |
+| 42    |02-09-2025      | Water Sports Stores	     | [Click Here](https://satishkumarp6949.github.io/water-store/)                |
+|43     |03-09-2025	     | Solar Energy Retailers    | [Click Here](https://satishkumarp6949.github.io/solor/)                      |
+|44     |04-09-2025      |3D Printing Service Shops	 | [Click Here](https://satishkumarp6949.github.io/3D-design-/)                 |
+|45     |05-09-2025      |Irrigation&WaterManagement | [Click Here](https://satishkumarp6949.github.io/irrigation-system/)          |
+|46     |08-09-2025      |Dropshipping Stores	       | [Click Here](https://satishkumarp6949.github.io/Dropping-store)              |
+|47     |09-09-2025      |Key Cutting Services	     | [Click Here](https://satishkumarp6949.github.io/Locksmith/)                  |
+|48     |10-09-2025	     |Travel agencies 	         | [Click Here](https://satishkumarp6949.github.io/travel-agency/)              |
+|49     |11-09-2025	     |Veterinary Pharmacies	     | [Click Here](https://satishkumarp6949.github.io/Vetinary-Pharmacy/)          |
+|50     |12-09-2025	     |Anime / Pop Culture Stores | [Click Here](https://satishkumarp6949.github.io/Anime/)                      |
+|51     |15-09-2025	     |Shredding&ArchivingServices| [Click Here](https://satishkumarp6949.github.io/Shreading/)                  |
+|52     |16-09-2025	     |Beekeeping Supply Stores	 | [Click Here](https://satishkumarp6949.github.io/honeycomb/)                  |
+|53     |17-09-2025	     |Fabric and sewing stores	 | [Click Here](https://satishkumarp6949.github.io/fabrics/)                    |
+
+
+
+
+
+
+
 **Trainer Name**: Dinesh Kumar
