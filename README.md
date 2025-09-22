@@ -55,6 +55,9 @@
 |51     |15-09-2025	     |Shredding&ArchivingServices| [Click Here](https://satishkumarp6949.github.io/Shreading/)                  |
 |52     |16-09-2025	     |Beekeeping Supply Stores	 | [Click Here](https://satishkumarp6949.github.io/honeycomb/)                  |
 |53     |17-09-2025	     |Fabric and sewing stores	 | [Click Here](https://satishkumarp6949.github.io/fabrics/)                    |
+|54     |18-09-2025	     |Networking Equipment Stores| [Click Here](https://satishkumarp6949.github.io/networking/)                 |
+|55     |19-09-2025	     |Gadget & Smart DeviceStores| [Click Here](https://satishkumarp6949.github.io/gadgets/)                    |
+|56     |22-09-2025	     |Fish markets               | [Click Here]()                                                               |
 
 
 
