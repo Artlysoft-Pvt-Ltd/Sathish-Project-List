@@ -57,7 +57,9 @@
 |53     |17-09-2025	     |Fabric and sewing stores	 | [Click Here](https://satishkumarp6949.github.io/fabrics/)                    |
 |54     |18-09-2025	     |Networking Equipment Stores| [Click Here](https://satishkumarp6949.github.io/networking/)                 |
 |55     |19-09-2025	     |Gadget & Smart DeviceStores| [Click Here](https://satishkumarp6949.github.io/gadgets/)                    |
-|56     |22-09-2025	     |Fish markets               | [Click Here](https://satishkumarp6949.github.io/Fish-mart/)                                                               |
+|56     |22-09-2025	     |Fish markets               | [Click Here](https://satishkumarp6949.github.io/Fish-mart/)                  |
+|57     |23-09-2025	     |Hardware stores	           | [Click Here](https://satishkumarp6949.github.io/Hardware/)                   |
+|58     |24-09-2025	     |Cash_checking Service      | [Click Here](https://satishkumarp6949.github.io/cash/)                       |
 
 
 
