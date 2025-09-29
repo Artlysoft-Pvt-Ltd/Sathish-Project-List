@@ -60,6 +60,11 @@
 |56     |22-09-2025	     |Fish markets               | [Click Here](https://satishkumarp6949.github.io/Fish-mart/)                  |
 |57     |23-09-2025	     |Hardware stores	           | [Click Here](https://satishkumarp6949.github.io/Hardware/)                   |
 |58     |24-09-2025	     |Cash_checking Service      | [Click Here](https://satishkumarp6949.github.io/cash/)                       |
+|59     |25-09-2025	     |Appliance stores	         | [Click Here](https://satishkumarp6949.github.io/appliances/)                 |
+|60     |26-09-2025	     |YouTuber/StreamerGearStores| [Click Here](https://satishkumarp6949.github.io/youtube/)                    |
+|61     |29-09-2025	     |Spa and wellness centers	 | [Click Here](https://satishkumarp6949.github.io/spa/)                        |
+
+
 
 
 
