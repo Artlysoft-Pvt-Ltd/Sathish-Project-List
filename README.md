@@ -63,6 +63,11 @@
 |59     |25-09-2025	     |Appliance stores	         | [Click Here](https://satishkumarp6949.github.io/appliances/)                 |
 |60     |26-09-2025	     |YouTuber/StreamerGearStores| [Click Here](https://satishkumarp6949.github.io/youtube/)                    |
 |61     |29-09-2025	     |Spa and wellness centers	 | [Click Here](https://satishkumarp6949.github.io/spa/)                        |
+|62     |30-09-2025	     |Indigenous Art stores	     | [Click Here](https://satishkumarp6949.github.io/art/)                        |
+|63     |03-10-2025	     |Merch Shops	               | [Click Here](https://satishkumarp6949.github.io/mech/)                       |
+|64     |06-10-2025	     |Gaming stores	             | [Click Here](https://satishkumarp6949.github.io/gaming/)                     |
+|65     |08-10-2025	     |consumer electronics       | [Click Here](https://satishkumarp6949.github.io/conele/)                     |
+
 
 
 
