@@ -67,6 +67,12 @@
 |63     |03-10-2025	     |Merch Shops	               | [Click Here](https://satishkumarp6949.github.io/mech/)                       |
 |64     |06-10-2025	     |Gaming stores	             | [Click Here](https://satishkumarp6949.github.io/gaming/)                     |
 |65     |08-10-2025	     |consumer electronics       | [Click Here](https://satishkumarp6949.github.io/conele/)                     |
+|66     |09-10-2025	     |curtains & blinds	         | [Click Here](https://satishkumarp6949.github.io/curt/)                       |
+|67     |10-10-2025	     |Organic/Natural Food Stores| [Click Here](https://satishkumarp6949.github.io/organic/)                    |
+|68     |13-10-2025	     |virtualofficespaceforrent	 | [Click Here](https://satishkumarp6949.github.io/office/)                     |
+|69     |14-10-2025	     |Fair Trade Shops	         | [Click Here](https://satishkumarp6949.github.io/trade/)                      |
+|70     |15-10-2025	     |Mobile Phone Stores	       | [Click Here](https://satishkumarp6949.github.io/phone/)                      |
+
 
 
 
