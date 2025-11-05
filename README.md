@@ -72,6 +72,12 @@
 |68     |13-10-2025	     |virtualofficespaceforrent	 | [Click Here](https://satishkumarp6949.github.io/office/)                     |
 |69     |14-10-2025	     |Fair Trade Shops	         | [Click Here](https://satishkumarp6949.github.io/trade/)                      |
 |70     |15-10-2025	     |Mobile Phone Stores	       | [Click Here](https://satishkumarp6949.github.io/phone/)                      |
+|71     |16-10-2025	     |Pet Food Speciality Stores | [Click Here](https://satishkumarp6949.github.io/petsfood/)                   |
+|72     |22-10-2025	     | Tailor/ Alteration shops  | [Click Here](	https://satishkumarp6949.github.io/tailor/)                   |
+|73     |23-10-2025	     | Car dealerships	         | [Click Here](https://satishkumarp6949.github.io/cardealership/)              |
+|74     |24-10-2025	     | Exotic Pet Stores	       | [Click Here](https://satishkumarp6949.github.io/exotic-pets/)                |
+|75     |27-10-2025	     | Marketplace Sellers       | [Click Here](https://satishkumarp6949.github.io/market/)                     |
+
 
 
 
